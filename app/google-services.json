@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "99549313360",
+    "project_id": "movieheaven1234",
+    "storage_bucket": "movieheaven1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99549313360:android:2d12796c4d822a42c3d455",
+        "android_client_info": {
+          "package_name": "com.example.movieheaven1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99549313360-e6ufnhsprfmhoab0judqr9tvv2ef6k5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliNHZPATp6IezbgF6Rii9g-9EVxaw_-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99549313360-e6ufnhsprfmhoab0judqr9tvv2ef6k5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99549313360:android:c6d90a27490d9943c3d455",
+        "android_client_info": {
+          "package_name": "com.example.movieheaven_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99549313360-e6ufnhsprfmhoab0judqr9tvv2ef6k5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliNHZPATp6IezbgF6Rii9g-9EVxaw_-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99549313360-e6ufnhsprfmhoab0judqr9tvv2ef6k5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
